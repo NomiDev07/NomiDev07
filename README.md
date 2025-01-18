@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ✔ Soy apenas una estudiante que aun no ejerce su carrera profesionalmente. <br>
 ✔ Busco constantemente mejorar y aprender sobre nuevas tecnologias y formas de hacer mas eficiente mi trabajo. <br>
 ✔ Se usar Apis y tecnologias de inteligencia artifical, ya sea para hacer chat bots o de reconocer objetos para una tarea especifica. <br>
-✔ Me puede adaptar a diferentes situaciones y aprender nuevas tecnologias rapidamente. <br>
+✔ Me puedo adaptar a diferentes situaciones y aprender nuevas tecnologias rapidamente. <br>
 ✔ Me considero lo sificientemente sociable para hablar con otras personas.
 
 
